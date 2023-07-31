@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-Meals-zip./static/css/main.fc2d1008.css",
+    "main.js": "/react-Meals-zip./static/js/main.56cd37bf.js",
+    "index.html": "/react-Meals-zip./index.html",
+    "main.fc2d1008.css.map": "/react-Meals-zip./static/css/main.fc2d1008.css.map",
+    "main.56cd37bf.js.map": "/react-Meals-zip./static/js/main.56cd37bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc2d1008.css",
+    "static/js/main.56cd37bf.js"
+  ]
+}

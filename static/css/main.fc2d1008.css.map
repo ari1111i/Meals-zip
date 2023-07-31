@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.fc2d1008.css","mappings":"AAAA,EAGI,qBAAsB,CAFtB,QAAS,CACT,SAEJ,CCJA,eACI,4BACF","sources":["index.css","components/UI/Button.css"],"sourcesContent":["*{\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n}",".strikethrough {\n    text-decoration: line-through;\n  }\n\n  \n\n"],"names":[],"sourceRoot":""}
