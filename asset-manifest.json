@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-Meals-zip/static/css/main.fc2d1008.css",
-    "main.js": "/react-Meals-zip/static/js/main.a6fb925a.js",
+    "main.css": "/react-Meals-zip/static/css/main.c7ec3132.css",
+    "main.js": "/react-Meals-zip/static/js/main.6f33ed13.js",
     "index.html": "/react-Meals-zip/index.html",
-    "main.fc2d1008.css.map": "/react-Meals-zip/static/css/main.fc2d1008.css.map",
-    "main.a6fb925a.js.map": "/react-Meals-zip/static/js/main.a6fb925a.js.map"
+    "main.c7ec3132.css.map": "/react-Meals-zip/static/css/main.c7ec3132.css.map",
+    "main.6f33ed13.js.map": "/react-Meals-zip/static/js/main.6f33ed13.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc2d1008.css",
-    "static/js/main.a6fb925a.js"
+    "static/css/main.c7ec3132.css",
+    "static/js/main.6f33ed13.js"
   ]
 }
